@@ -69,4 +69,4 @@ bank-loan-analysis/
 Open the `.pbit` template in Power BI Desktop and, when prompted, point it to `data/financialloan.csv`.
 
 ## Contact
-**Madhumitha Divate** | madhudivate28@gmail.com | [LinkedIn](ADD-YOUR-LINKEDIN-LINK) | Bengaluru, India
+**Madhumitha Divate** | madhudivate28@gmail.com | Bengaluru, India
